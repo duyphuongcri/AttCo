@@ -1,5 +1,5 @@
-**AttCo: Attention-based Co-Learning Fusion of Deep Feature Representation for Medical Image Segmentation using Multimodality**
-[Paper](https://www.sciencedirect.com/science/article/pii/S0893608026000353)
+**[AttCo: Attention-based Co-Learning Fusion of Deep Feature Representation for Medical Image Segmentation using Multimodality](https://www.sciencedirect.com/science/article/pii/S0893608026000353)**
+
 
 
 ## 📄 License
